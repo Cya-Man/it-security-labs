@@ -21,7 +21,9 @@ Step 2: Policy Analyzer — baseline
 Step 3: Compare to Effective State
 <img width="1092" height="882" alt="Screenshot 2026-08-07 222339" src="https://github.com/user-attachments/assets/0ce2b78b-606e-4be6-b8d1-3e3a89772e72" />
 
+What I Learned
 Gap analysis doesn't force a system into compliance - it identifies where the current configuration deviates from a recommended framework, so those gaps can be reviewed and addressed deliberately. This kind of analysis is typically run when first adopting a security framework, after a significant amount of time has passed since the last review, or when meeting a new industry or legal compliance requirement.
+
 Reference
 Microsoft Security Compliance Toolkit
 Related exam domains: CompTIA Security+ (baseline/hardening concepts)
