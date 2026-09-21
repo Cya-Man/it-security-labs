@@ -11,6 +11,7 @@ Each folder below is a self-contained lab with its own write-up, screenshots, an
 |---|---|---|
 | 01 | [Security Baseline Gap Analysis](./01-gap-analysis-baseline/) | Compliance and operational security |
 | 02 | [Compare Threat Types](./02-compare-threat-types/) | Threats, attacks, and vulnerabilities |
+| 03 | [IAM Lab: Password Attacks](IAM-Lab/README.md) | Identity and access management |
 
 *(This table grows as new labs are added — one row per lab, linking to its folder.)*
 
